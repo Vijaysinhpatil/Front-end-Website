@@ -342,7 +342,7 @@ html {
 .story {
   width: 100%;
   height: 100%;
-  background-color: rgba(253, 69, 69, 0.9);
+  background-color:  rgb(129 101 101 / 90%);
   position: absolute;
   top: 0;
   left: 0;
