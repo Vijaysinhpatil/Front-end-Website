@@ -615,7 +615,9 @@ html {
   html {
     font-size: 45%;
   }
-
+  .navbar{
+    top: 1rem;
+  }
   .floating-bg {
     top: -70vw;
   }
@@ -625,7 +627,9 @@ html {
     width: 42rem;
     font-size: 3.5rem;
   }
-
+  .section-1{
+    height: 65vh;
+  }
   .section-heading {
     font-size: 6rem;
   }
